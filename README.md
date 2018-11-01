@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Куда и как подключаться
 
-You can use the [editor on GitHub](https://github.com/Ownhack/Ownhack.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+IP: 95.31.3.231 открыты порты c 5050 по 5100
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Как подключиться: 
+ssh user_name@95.31.3.231
 
-### Markdown
+Users:
+tkachenko, agafonov, alekseevskiy, mayakov, sotnikov, morozov, zabava, monakhov, nesterenko
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Password:
+1234
 
-```markdown
-Syntax highlighted code block
+Команда для смены пароля: наберите (sudo) passwd  
 
-# Header 1
-## Header 2
-### Header 3
+## Полезные ссылки
 
-- Bulleted
-- List
+- Копирование файлов через SSH - https://www.shellhacks.com/ru/copy-files-ssh-10-examples/
 
-1. Numbered
-2. List
+- Знакомство с NodeJS - https://proglib.io/p/beginners-guide-to-node-js/
 
-**Bold** and _Italic_ and `Code` text
+## Установка NodeJS
 
-[Link](url) and ![Image](src)
-```
+1. Поставьте себе все nodeJS
+2. Распакуйте example-client.zip (https://cloud.mail.ru/public/MDqE/A2c2PaerZ)
+3. Выполните в распакованной папке npm install и npm start
+4. На localhost:5055 попробуйте потыкать интерфейс
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ownhack/Ownhack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
