@@ -35,3 +35,33 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+_
+
+
+
+ip: 95.31.3.231
+открыты порты c 5050 по 5100
+
+// как подключиться 
+ssh user_name@95.31.3.231
+
+// users
+
+tkachenko
+agafonov
+alekseevskiy
+mayakov
+sotnikov
+morozov
+zabava
+monakhov
+nesterenko
+
+// passwd
+1234
+
+// how to change: наберите passwd
+
+
+ Копирование файлов через SSH - https://www.shellhacks.com/ru/copy-files-ssh-10-examples/
