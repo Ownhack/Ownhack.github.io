@@ -17,9 +17,14 @@ Default Password:
 
 - Копирование файлов через SSH - https://www.shellhacks.com/ru/copy-files-ssh-10-examples/
 
+- PuTTY для покдлючения по SSH на Windows - https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+- Содержание хакатона по дням - https://alexbmstu.github.io/2018/
+
 - Знакомство с NodeJS - https://proglib.io/p/beginners-guide-to-node-js/
 
 - Сайт ИУ6, файлы для хакатона - http://e-learning.bmstu.ru/moodle/course/view.php?id=122
+
 
 ## Пример клиент-сервера с Rapberry
 
