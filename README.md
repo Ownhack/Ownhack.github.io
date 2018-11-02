@@ -51,6 +51,6 @@ Default Password:
 
 1. Поставьте себе все nodeJS
 2. Распакуйте [example-client.zip](https://github.com/Ownhack/Ownhack.github.io/blob/master/assets/example-client.zip?raw=true)
-3. Выполните в распакованной папке npm install и npm start
+3. Выполните в распакованной папке `npm install` и `npm start`
 4. На localhost:5055 попробуйте потыкать интерфейс
 
