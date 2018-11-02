@@ -41,11 +41,11 @@ Default Password:
 
 ## Полезные ссылки
 
-- Копирование файлов через SSH - https://www.shellhacks.com/ru/copy-files-ssh-10-examples/
+- [Копирование файлов через SSH](https://www.shellhacks.com/ru/copy-files-ssh-10-examples/)
 
-- Знакомство с NodeJS - https://proglib.io/p/beginners-guide-to-node-js/
+- [Знакомство с NodeJS](https://proglib.io/p/beginners-guide-to-node-js/)
 
-- Сайт ИУ6, файлы для хакатона - http://e-learning.bmstu.ru/moodle/course/view.php?id=122
+- [Сайт ИУ6, файлы для хакатона](http://e-learning.bmstu.ru/moodle/course/view.php?id=122)
 
 ## Пример клиент-сервера с Rapberry
 
