@@ -15,20 +15,20 @@ IP: 95.31.3.231 открыты порты c 5050 по 5100
 
 **Шаг 1**
 
-![Шаг 1](https://github.com/Ownhack/Ownhack.github.io/blob/master/assets/putty-example/step1.jpg)
+![Шаг 1](assets/putty-example/step1.jpg)
 
 **Шаг 2**
 
-![Шаг 2](https://github.com/Ownhack/Ownhack.github.io/blob/master/assets/putty-example/step2.jpg)
+![Шаг 2](assets/putty-example/step2.jpg)
 
 
 **Шаг 3**
 
-![Шаг 4](https://github.com/Ownhack/Ownhack.github.io/blob/master/assets/putty-example/step3.jpg)
+![Шаг 3](assets/putty-example/step3.jpg)
 
 **Шаг 4**
 
-![Шаг 4](https://github.com/Ownhack/Ownhack.github.io/blob/master/assets/putty-example/step4.jpg)
+![Шаг 4](assets/putty-example/step4.jpg)
 
 
 Users:
