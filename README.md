@@ -47,6 +47,8 @@ Default Password:
 
 - [Сайт ИУ6, файлы для хакатона](http://e-learning.bmstu.ru/moodle/course/view.php?id=122)
 
+- [Хакатон по дням](https://alexbmstu.github.io/2018/)
+
 ## Пример клиент-сервера с Rapberry
 
 1. Поставьте себе все nodeJS
